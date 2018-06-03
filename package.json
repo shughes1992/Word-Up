@@ -1,0 +1,23 @@
+{
+  "name": "Word-Up",
+  "version": "1.0.0",
+  "description": "Word-Up is a word guess command-line game using constructor functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shughes1992/Word-Up.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shughes1992/Word-Up/issues"
+  },
+  "homepage": "https://github.com/shughes1992/Word-Up#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0"
+  }
+}
